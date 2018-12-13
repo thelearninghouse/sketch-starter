@@ -1,0 +1,186 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "846166C2-1885-457B-A6BC-68827B67C7A1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 333,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "6D05932D-E5A0-4AB6-8A57-50A08A3D9906"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1BE900FA-2BAB-4168-8ACF-0C565EE5AA30"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "6CB3CCF6-17CD-4AA8-A4CE-46B3B1C0FCC3"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A8E17D7E-E437-4518-83E7-13060E00368F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "445851DF-E4A1-460C-9BA6-3963316A3653"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "64BBF408-1AB0-4612-9D21-B2DF1A3E9812"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0FDA7182-A2AA-4522-85A0-A7F69BA0B2F0"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "942A3B3A-5A67-4090-986E-B6FCB8E91A0D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "18E1CD85-811E-45E0-88CD-2DF6285F944F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4BBEEB05-66EF-4CD3-B95A-C2BE50F39A4A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "75067EEC-946F-4311-AF30-8509CC99A0F7"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "896B82A7-FE8B-45D7-8FD5-CAF1E608BEB8"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "98B04A3A-63E7-4417-BDCF-637D9C42F525"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "06FBBF7C-50B8-4D8A-8884-4B4ADF669596"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "64E2D888-B56D-4A96-A321-206C5FBCDDE5"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B81B733C-DCF0-442E-B435-A8BA0E712B5F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8539290B-DC3B-417A-9F94-3398BBBA7727"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B0A4F31E-C828-42D6-AB13-28B17822589F"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8BA1BD43-5640-402B-AA9C-C99610F084DE"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "FFC22273-832A-4497-9298-F51BDEDFC050"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "30FF750A-9836-4CDF-80EB-E13F93D83FA9"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "72AC8A2F-CA0F-4915-B6EF-75C4199279DD"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "1D6AE2CF-E99C-4921-A70F-D6E0E31FAE49"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E53A2DC4-5BAB-4337-B2E1-199F58B97123"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9FCD9047-58FF-470F-A0B2-B1925031149D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C89679B1-57C2-4572-A406-53E782248D03"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F8C4C9BF-A7BD-447B-9C6F-A9B085E7691D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D8D6348B-6A0B-475F-80CB-4D69DFC5BA4A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "6BF6598F-515F-4558-9FCB-E85EC7344512"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "21C26F5C-A42B-48B0-BE1C-B21B0050C135"
+    }
+  ],
+  "name": "Symbols",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1,
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -414,
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "43819DC4-EDA5-473E-BAFC-06519A576431",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 522,
+    "width": 320,
+    "x": 20,
+    "y": 497
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "7C8190D6-CCC7-4648-8E6F-E06D3094599A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "112A96FC-29E6-46F9-9971-258F9882DC26"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C2894A50-5046-4431-80F9-D8A10E4DA9CE"
+    },
+    {
+      "class": "text",
+      "id": "4941FC2A-2D33-4122-B3B9-0E55676136E1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05196BA7-7A83-4FA6-9065-07F20E56BC25"
+    }
+  ],
+  "name": "accordions copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

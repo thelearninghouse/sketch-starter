@@ -1,0 +1,122 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Roboto-Regular",
+              "size": 18
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 27,
+            "minimumLineHeight": 27,
+            "tighteningFactorForTruncation": 0.05
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 2879,
+        "location": 0
+      }
+    ],
+    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae malesuada orci. Integer a velit magna. In a felis vel elit laoreet maximus a maximus risus. Curabitur non lorem quis erat pellentesque dictum. Curabitur congue pharetra gravida. Nunc vitae porttitor mauris. Etiam eu risus fermentum, gravida nunc in, auctor leo. Vestibulum sit amet hendrerit felis. Fusce consequat condimentum urna, ut vehicula urna tristique nec.\n\nCras eget nunc arcu. Aliquam ante velit, posuere in tempus vel, eleifend eu lectus. Integer eu lorem sit amet quam euismod gravida vel ut lacus. Nunc ac ligula suscipit, euismod diam sit amet, venenatis felis. Quisque aliquam mi et tincidunt dictum. Integer commodo in orci porta molestie. Etiam consectetur non elit euismod feugiat. Suspendisse nec rhoncus eros, vel tempor tellus. Mauris vel iaculis ipsum, ut dictum urna. Mauris accumsan cursus euismod. Fusce at mauris nisl.\n\nCurabitur malesuada nisi a ligula posuere consequat. Proin at nibh lacus. Proin non orci bibendum, gravida sapien sit amet, dignissim sem. Morbi commodo felis vel leo tincidunt, in aliquet justo tincidunt. Curabitur dapibus urna ut ex facilisis, non mattis libero fringilla. Vivamus ac turpis nec lorem gravida aliquet. Nullam semper eros nulla, sed venenatis urna efficitur ut. Pellentesque nec fringilla orci. Aliquam pretium purus massa, vel interdum tortor pretium sed. Pellentesque mi enim, interdum eu ultrices ac, volutpat in mauris. Nam eget sollicitudin mauris, vel vehicula arcu. Quisque fringilla sem a aliquam dignissim. Vestibulum sed laoreet ipsum. Cras tempus nisi vel lacinia fermentum. Quisque efficitur in mauris eget dapibus.\n\nCurabitur vulputate pharetra turpis nec imperdiet. Donec eget dignissim est. Maecenas tincidunt iaculis turpis, et venenatis dui faucibus et. Praesent auctor lectus quis ex placerat sagittis. Phasellus tristique lacinia lacus, at tempus turpis mollis in. Suspendisse tincidunt, felis in sodales elementum, ante mi sagittis sapien, ac sollicitudin quam tellus quis erat. Donec ultrices mi erat, at vestibulum metus accumsan sed. Nulla viverra lacus ac ante imperdiet venenatis. Vivamus feugiat vestibulum luctus. Mauris vestibulum blandit hendrerit. Quisque facilisis sapien eget tortor facilisis, vel tempor mi egestas. Vestibulum viverra, tellus non iaculis vulputate, est lacus tempor neque, sit amet hendrerit lacus magna non sapien. Nunc ut lacus congue, interdum est pretium, dictum ligula. Cras iaculis mattis nibh, at mattis metus gravida in.\n\nNullam ultrices euismod sem vitae auctor. Aliquam consectetur felis in eros fringilla, vitae vehicula purus vulputate. Quisque euismod mauris a lacus iaculis, non pharetra metus posuere. In imperdiet felis eu scelerisque tempus. Pellentesque rutrum aliquet ullamcorper. Suspendisse potenti. Quisque ac lacinia mi. Integer eu sem a enim faucibus fringilla non in dolor. "
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A13F81BE-F38E-4B8A-A65E-BC0711B34F0A",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1161,
+    "width": 640,
+    "x": -428,
+    "y": -184
+  },
+  "glyphBounds": "{{0, 6}, {636, 1152}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Lorem ipsum dolor si",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "67053070-03F9-4AD7-8DC9-98E0B6C06324",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3489FFE1-9196-4E23-9627-0366A8D6074F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Roboto-Regular",
+            "size": 18
+          }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 27,
+          "minimumLineHeight": 27,
+          "tighteningFactorForTruncation": 0.05
+        },
+        "textStyleVerticalAlignmentKey": 0
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 1,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "isAutoWidth": 0
+      }
+    }
+  }
+}

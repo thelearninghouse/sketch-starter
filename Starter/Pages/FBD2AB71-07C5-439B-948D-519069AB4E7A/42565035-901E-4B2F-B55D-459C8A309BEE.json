@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "42565035-901E-4B2F-B55D-459C8A309BEE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 215,
+    "width": 320,
+    "x": 20,
+    "y": 1328
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "card--mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "695D1A9A-040C-404A-B5FD-7E465EB1E488",
+      "overrideName": "F0999C15-EE6B-4B7C-AE7C-D8183A94702C_stringValue",
+      "value": "Custom Label"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AE6E3344-94B0-43E7-8E40-DB296A09E3FC",
+      "overrideName": "0D01C7CA-E362-4EF3-B4C1-A3AC35038D8C_stringValue",
+      "value": "Card Heading"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "02AE6C52-5CED-4061-B2F1-8C1F3DF1453B",
+  "verticalSpacing": 0
+}

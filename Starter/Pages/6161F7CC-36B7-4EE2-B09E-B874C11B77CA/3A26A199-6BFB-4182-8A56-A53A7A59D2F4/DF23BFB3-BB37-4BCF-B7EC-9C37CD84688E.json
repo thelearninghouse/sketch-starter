@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DF23BFB3-BB37-4BCF-B7EC-9C37CD84688E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 34,
+    "width": 138,
+    "x": 148,
+    "y": 258
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button/standard/primary copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F7C99703-7A4B-4F45-8FF9-81915652E75C",
+      "overrideName": "54517033-BE36-4A6B-9887-5DDC8BF00AA5_stringValue",
+      "value": "Example Text"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D5026168-CF05-4E1E-A4BB-B9C0DDDC587A",
+      "overrideName": "D52F7D3A-876E-4C4F-9E4D-D60F177448E6_layerStyle",
+      "value": "03712FEE-0EF0-4C63-831C-537FAB0AC97A"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BCE60D9E-21B3-4D2A-9E6D-8631DDDDDB79",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
