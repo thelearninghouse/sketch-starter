@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "61734FF3-2FAC-415F-B590-A93A3257249D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 284,
+    "width": 200,
+    "x": -39,
+    "y": 348
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "card copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "29569174-2101-4CED-BDCF-0E6F39757D43",
+      "overrideName": "7A83783E-6A09-4517-A426-B9F946E61E74_stringValue",
+      "value": "Custom Label"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5439C539-A9A9-4558-9E5D-E2C65302D8F5",
+      "overrideName": "43ADD62B-C82E-404E-8135-B03EC2AC3824_stringValue",
+      "value": "Really short description."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "976281EB-3D6A-4E43-86DC-7ADE64F2BC86",
+      "overrideName": "BE427FB0-487B-432F-9D3D-A1E676FB3E2D_stringValue",
+      "value": "Card Heading"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2AA18A6E-AD07-4C00-B8DC-A5C052B20D6F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1548341136.596753
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -53,12 +53,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 264,
-    "width": 320,
+    "height": 240,
+    "width": 335,
     "x": 20,
     "y": 203
   },
-  "glyphBounds": "{{0, 5}, {319, 256}}",
+  "glyphBounds": "{{0, 5}, {329, 232}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

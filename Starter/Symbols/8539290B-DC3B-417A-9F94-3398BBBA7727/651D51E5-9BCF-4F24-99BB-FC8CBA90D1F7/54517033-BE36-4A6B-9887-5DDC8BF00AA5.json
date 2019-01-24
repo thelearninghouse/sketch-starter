@@ -54,11 +54,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 45,
+    "width": 39,
     "x": 20,
     "y": 5
   },
-  "glyphBounds": "{{4, 5}, {37, 13}}",
+  "glyphBounds": "{{1, 5}, {37, 13}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -69,7 +69,7 @@
   "lineSpacingBehaviour": 2,
   "name": "label",
   "nameIsFixed": true,
-  "resizingConstraint": 18,
+  "resizingConstraint": 2,
   "resizingType": 0,
   "rotation": 0,
   "sharedStyleID": "FDAF0DB9-C798-4D5E-AFC4-770FF35C604C",
@@ -111,11 +111,11 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 0
+        "isAutoWidth": 1
       }
     }
   }

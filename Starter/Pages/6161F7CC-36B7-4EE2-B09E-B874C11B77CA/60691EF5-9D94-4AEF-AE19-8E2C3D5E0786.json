@@ -18,7 +18,7 @@
     "height": 230,
     "width": 310,
     "x": 1035,
-    "y": 1583
+    "y": 1563
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -58,6 +58,7 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "size.update": 1548340736.49587
       }
     }
   },

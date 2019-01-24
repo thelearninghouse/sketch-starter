@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 34,
-    "width": 115,
+    "width": 109,
     "x": 0,
     "y": 0
   },
@@ -34,17 +34,13 @@
       "id": "847AED37-E354-4E84-B49B-097119C36344"
     },
     {
-      "class": "text",
-      "id": "22B484B4-339C-4700-8A38-DD1D16467FD4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "82251D50-58B1-4DA0-B1D7-ACE0EB320734"
+      "class": "group",
+      "id": "CCD8434E-9F81-40CF-9622-8826221887A6"
     }
   ],
   "name": "button",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -58,6 +54,15 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "padding": {
+          "bottom": 5,
+          "left": 20,
+          "modelID": "viewPadding_3d13b0c8-abb9-4948-b43f-bfabcfaf3c8f",
+          "model_class": "ADModelViewPadding",
+          "model_version": 0.1,
+          "right": 20,
+          "top": 5
+        }
       }
     }
   }
