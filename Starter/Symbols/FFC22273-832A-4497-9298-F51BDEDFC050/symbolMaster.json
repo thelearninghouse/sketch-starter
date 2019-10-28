@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 903,
+  "changeIdentifier": 1227,
   "clippingMaskMode": 0,
   "do_objectID": "FFC22273-832A-4497-9298-F51BDEDFC050",
   "exportOptions": {
@@ -24,9 +24,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 52,
-    "width": 115,
-    "x": 2040,
-    "y": 0
+    "width": 114,
+    "x": 2039,
+    "y": 74
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -53,9 +53,9 @@
       "id": "3EF17DDD-C09D-4957-BA9F-959D29C774E1"
     }
   ],
-  "name": "button/standard/iconAndLabel",
+  "name": "button/standard/inline/iconAndLabel",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

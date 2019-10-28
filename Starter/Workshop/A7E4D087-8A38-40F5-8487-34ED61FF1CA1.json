@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A7E4D087-8A38-40F5-8487-34ED61FF1CA1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 284,
+    "width": 200,
+    "x": -259,
+    "y": 348
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "card copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DDE5863C-E5E7-4DF9-AADF-97B26B909CCE",
+      "overrideName": "0F88595B-6E2B-439B-BDF6-82F5BA2A8D23_stringValue",
+      "value": "Custom Label"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AD9FF77B-0BDC-4907-BD02-485FBF43E389",
+      "overrideName": "799EECAA-AB83-47F8-A5C4-C80F3E5BCE14_stringValue",
+      "value": "Card Heading"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F283569B-EE8C-45C9-85F9-3988C361816D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1548341101.427295
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

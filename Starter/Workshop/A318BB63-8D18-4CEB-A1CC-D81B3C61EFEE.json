@@ -1,0 +1,72 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A318BB63-8D18-4CEB-A1CC-D81B3C61EFEE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 116,
+    "x": 276,
+    "y": 40
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button/standardIcon Copy 16",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "AFD48E57-A0C0-49DA-8A91-999C3663ADCD_symbolID",
+      "value": "079B4409-E7AA-4F78-A2D4-FF5CBCF1246C"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "577141B0-F3BE-47AA-B155-DBCDC5D774D6_stringValue",
+      "value": "Menu"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "733BD2FA-E13C-4EF4-8CC7-0D2664AAA4B9",
+      "overrideName": "AFD48E57-A0C0-49DA-8A91-999C3663ADCD/C1E7ABB0-D33F-4B6C-B231-F4C8971245AA_layerStyle",
+      "value": "81DF0B91-1C41-4E91-BEF1-71CC593D2C75"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B32388F3-1EF0-43BF-A5A9-A7BFB92A46F9",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1548344652.119539
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

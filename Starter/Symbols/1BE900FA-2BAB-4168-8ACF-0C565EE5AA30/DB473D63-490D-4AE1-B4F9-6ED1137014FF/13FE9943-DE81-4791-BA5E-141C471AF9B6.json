@@ -54,7 +54,7 @@
     "constrainProportions": false,
     "do_objectID": "BC1DAF8F-EEAE-4061-AA39-B3EE99A0BEA4",
     "height": 21,
-    "width": 96,
+    "width": 100,
     "x": 20,
     "y": 14
   },
@@ -69,7 +69,7 @@
   "lineSpacingBehaviour": 2,
   "name": "Header",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 59,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,

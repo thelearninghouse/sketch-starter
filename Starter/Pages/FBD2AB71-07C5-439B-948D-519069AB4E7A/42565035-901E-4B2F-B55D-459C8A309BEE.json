@@ -16,9 +16,9 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 215,
-    "width": 320,
+    "width": 335,
     "x": 20,
-    "y": 1328
+    "y": 1290
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -57,5 +57,11 @@
     "windingRule": 1
   },
   "symbolID": "02AE6C52-5CED-4061-B2F1-8C1F3DF1453B",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalSpacing": 0
 }

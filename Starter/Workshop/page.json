@@ -42,6 +42,46 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "20FCE46B-7D69-46BB-AC65-3052C44161D8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BF7C2A2C-A78B-45CF-A932-7DFD6ECD854C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A7E4D087-8A38-40F5-8487-34ED61FF1CA1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9DC0DE20-0EEB-4725-8A62-F39812996332"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A318BB63-8D18-4CEB-A1CC-D81B3C61EFEE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7F0AA5AE-DE91-4DF6-AA25-65ADA9B231FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "05AA2C9E-B920-4F39-B8E8-70818C7287C8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AAD34358-F552-4AE9-875C-5CA5994C2CD4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "17E813C7-9EBF-436D-803F-50334ED85E0A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "61734FF3-2FAC-415F-B590-A93A3257249D"
+    }
   ],
   "name": "Workshop",
   "nameIsFixed": true,

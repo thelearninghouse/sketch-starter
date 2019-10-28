@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 52,
-    "width": 85,
+    "width": 84,
     "x": 0,
     "y": 0
   },
@@ -40,7 +40,7 @@
   ],
   "name": "button",
   "nameIsFixed": true,
-  "resizingConstraint": 63,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -54,6 +54,15 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
+        "padding": {
+          "bottom": 13,
+          "left": 20,
+          "modelID": "viewPadding_2f3d507a-a965-41c6-a225-7b64515edcec",
+          "model_class": "ADModelViewPadding",
+          "model_version": 0.1,
+          "right": 20,
+          "top": 12
+        }
       }
     }
   }

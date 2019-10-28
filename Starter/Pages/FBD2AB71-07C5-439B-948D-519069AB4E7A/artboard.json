@@ -22,9 +22,9 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2040,
-    "width": 360,
-    "x": -460,
+    "height": 1585,
+    "width": 375,
+    "x": -475,
     "y": 0
   },
   "hasBackgroundColor": false,
@@ -89,10 +89,21 @@
     {
       "class": "symbolInstance",
       "id": "42565035-901E-4B2F-B55D-459C8A309BEE"
+    },
+    {
+      "class": "rectangle",
+      "id": "EC7427CB-6926-490C-ACB8-F2ADDC7DB1EC"
     }
   ],
   "name": "#1 Home - Mobile",
   "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,

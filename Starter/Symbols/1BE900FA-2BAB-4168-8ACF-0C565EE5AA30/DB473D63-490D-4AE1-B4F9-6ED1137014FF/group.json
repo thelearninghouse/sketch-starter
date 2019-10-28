@@ -16,7 +16,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 50,
-    "width": 360,
+    "width": 375,
     "x": 0,
     "y": 0
   },
@@ -38,12 +38,8 @@
       "id": "13FE9943-DE81-4791-BA5E-141C471AF9B6"
     },
     {
-      "class": "text",
-      "id": "DD6B7D23-8E29-449E-99F6-A9A9C117AE96"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3367404F-CD4B-4783-B869-533A0C33AC25"
+      "class": "group",
+      "id": "FF697BFF-AA1C-42D0-B45F-0F1A4C9BD9BE"
     }
   ],
   "name": "header",

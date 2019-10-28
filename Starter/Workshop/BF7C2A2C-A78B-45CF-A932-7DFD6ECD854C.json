@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BF7C2A2C-A78B-45CF-A932-7DFD6ECD854C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "78E98312-E6DE-4015-9545-700C04DE064D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BC89EBEC-DC7D-4C8A-8D09-83A853CE63C2",
+    "height": 230,
+    "width": 200,
+    "x": -39,
+    "y": -36
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "card copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "34E87230-E86F-4B81-BBA3-80EE7237282F",
+      "overrideName": "0F88595B-6E2B-439B-BDF6-82F5BA2A8D23_stringValue",
+      "value": "Custom Label"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3C0BE3C1-5F16-4EDD-8566-2FBB2D2377B7",
+      "overrideName": "799EECAA-AB83-47F8-A5C4-C80F3E5BCE14_stringValue",
+      "value": "Card Heading"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "910A538B-C252-4393-8BE6-26568A710B64",
+      "overrideName": "118C4169-D7BC-4073-8A7F-0F4A1B47BA6F_stringValue",
+      "value": "Really short description."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D97E6334-8D31-45BF-BFD8-DD191234D31D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F283569B-EE8C-45C9-85F9-3988C361816D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1548340813.154453
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

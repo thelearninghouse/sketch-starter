@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 50,
-    "width": 360,
-    "x": 0,
+    "width": 375,
+    "x": -15,
     "y": 0
   },
   "hasClickThrough": false,
